@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Zack
+- 👀 I’m interested in progressive web technologies & cool visuals
+- 🌱 I’m currently learning Blender & GraphQL
