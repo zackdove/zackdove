@@ -1,3 +1,3 @@
--    Hi, I’m Zack
--    Interested in progressive web technologies, augmented reality, and generative visuals
-- 🌱 Currently learning GraphQL
+Zack (he/him)
+
+Web Developer, 3D Art
